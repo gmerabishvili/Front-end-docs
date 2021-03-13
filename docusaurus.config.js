@@ -41,8 +41,8 @@ module.exports = {
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'JavaScript',
+              to: 'docs/javascript/intro',
             },
           ],
         },

@@ -1,6 +1,6 @@
 module.exports = {
     someSidebar: {
-        Introduction: ['doc1', 'doc2', 'doc3'],
+        "Style Guide": ['styleGuide'],
         JavaScript: [
             'javascript/intro',
             {
@@ -9,7 +9,10 @@ module.exports = {
                 items: ['javascript/es6/intro', 'javascript/es6/arrowFns']
             }
         ],
-        Features: ['mdx'],
+        TypeScript: ['typescript/intro',],
+        "Design patterns": [
+            'design-patterns/intro'
+        ]
 
     },
 };
