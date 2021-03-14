@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Front-End Development',
   tagline: 'Your journey starts here',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://gmerabishvili.github.io',
+  baseUrl: '/Front-end-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'gmerabishvili', // Usually your GitHub org/user name.
+  projectName: 'Front-end-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
